@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formulaire</string>
+    <string-array name="array_item">
+        <item name="item1">Cameroun</item>
+        <item name="item2">Canada</item>
+        <item name="item3">Paris</item>
+        <item name="item4">Allemagne</item>
+    </string-array>
+</resources>
